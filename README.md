@@ -1,1 +1,1 @@
-# rel-gio-digital-din-mico
+# relogio-digital-dinamico
